@@ -1,1 +1,3 @@
 # HomePoint.Shared.Lib
+
+Shared code for functions requried for the framework. Fixes for  native support for different os distros...
